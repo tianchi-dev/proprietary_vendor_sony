@@ -142,6 +142,10 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/sony/msm8226-common/proprietary/etc/sec_config:system/etc/sec_config \
     vendor/sony/msm8226-common/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
+    vendor/sony/msm8226-common/proprietary/etc/snd_soc_msm/snd_soc_msm_Tapan:system/etc/snd_soc_msm/snd_soc_msm_Tapan \
+    vendor/sony/msm8226-common/proprietary/etc/snd_soc_msm/snd_soc_msm_TapanLite:system/etc/snd_soc_msm/snd_soc_msm_TapanLite \
+    vendor/sony/msm8226-common/proprietary/etc/snd_soc_msm/snd_soc_msm_TapanLite_SKUF:system/etc/snd_soc_msm/snd_soc_msm_TapanLite_SKUF \
+    vendor/sony/msm8226-common/proprietary/etc/snd_soc_msm/snd_soc_msm_Tapan_SKUF:system/etc/snd_soc_msm/snd_soc_msm_Tapan_SKUF \
     vendor/sony/msm8226-common/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/sony/msm8226-common/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/sony/msm8226-common/proprietary/lib/hw/audio.primary.msm8226.so:system/lib/hw/audio.primary.msm8226.so \
@@ -149,6 +153,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/lib/hw/vendor-lights.default.so:system/lib/hw/vendor-lights.default.so \
     vendor/sony/msm8226-common/proprietary/lib/hw/nfc_nci_pn547.msm8226.so:system/lib/hw/nfc_nci_pn547.msm8226.so \
     vendor/sony/msm8226-common/proprietary/lib/libals.so:system/lib/libals.so \
+    vendor/sony/msm8226-common/proprietary/lib/libalsa-intf.so:system/lib/libalsa-intf.so \
     vendor/sony/msm8226-common/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
     vendor/sony/msm8226-common/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
     vendor/sony/msm8226-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
