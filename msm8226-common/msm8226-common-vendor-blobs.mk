@@ -177,6 +177,17 @@ PRODUCT_COPY_FILES += \
     vendor/sony/msm8226-common/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
     vendor/sony/msm8226-common/proprietary/lib/libta.so:system/lib/libta.so \
     vendor/sony/msm8226-common/proprietary/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_denoiser.so:system/lib/libmorpho_denoiser.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_easy_hdr.so:system/lib/libmorpho_easy_hdr.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_edit_engine.so:system/lib/libmorpho_edit_engine.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_fdw.so:system/lib/libmorpho_fdw.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_hdr_checker.so:system/lib/libmorpho_hdr_checker.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_image_stabilizer3.so:system/lib/libmorpho_image_stabilizer3.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_movie_stabilizer3.so:system/lib/libmorpho_movie_stabilizer3.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_object_tracker2.so:system/lib/libmorpho_object_tracker2.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_posture_detect.so:system/lib/libmorpho_posture_detect.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_scene_detector.so:system/lib/libmorpho_scene_detector.so \
+    vendor/sony/msm8226-common/proprietary/lib/libmorpho_super_resolution.so:system/lib/libmorpho_super_resolution.so \
     vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_batt_therm.so:system/lib/sysmon/sysmon_batt_therm.so \
     vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_charge_current_limit_level.so:system/lib/sysmon/sysmon_charge_current_limit_level.so \
     vendor/sony/msm8226-common/proprietary/lib/sysmon/sysmon_charging.so:system/lib/sysmon/sysmon_charging.so \
